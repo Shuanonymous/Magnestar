@@ -4,4 +4,4 @@ Given a supplied data file containing gathered satellite information and telemet
     Optionally filters the data by either Operator and/or Frequency Band
     Output subset of columns for the filtered results
 
-exercise.jpynb will prompt a user for a filter, specifying inputs such as OP for operator, or F for Frequency Band. Once the user inputs the filter, the data is filtered to the requested filter, and all null values are removed. The data is displayed to the user with a display message indicating the filter used. 
+exercise.jpynb will prompt a user for a filter, specifying inputs such as OP for operator, or F for Frequency Band. Once the user inputs the filter, the data is filtered to the requested filter, and all null values are removed. The data is displayed to the user with a display message indicating the filter used. Thank you! 
